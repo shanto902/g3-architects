@@ -572,6 +572,7 @@ nav {
   .about-us-footer  {
     text-align: center;
     margin-top: 30px;
+    width: 100%;
   }
   .about-us-footer h3{
     text-align: center;
@@ -587,6 +588,7 @@ nav {
   }
   .form-footer {
     align-items: center;
+    width: 100%;
   }
   .form-footer input[type="email"] {
     width: 150px;
